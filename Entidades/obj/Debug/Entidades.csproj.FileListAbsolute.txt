@@ -1,0 +1,11 @@
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Entidades\bin\Debug\Entidades.dll
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Entidades\bin\Debug\Entidades.pdb
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Entidades\obj\Debug\Entidades.dll
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Entidades\obj\Debug\Entidades.pdb

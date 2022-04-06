@@ -1,0 +1,11 @@
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Utilidades\bin\Debug\Utilidades.dll
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Utilidades\bin\Debug\Utilidades.pdb
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Utilidades\obj\Debug\Utilidades.csproj.AssemblyReference.cache
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Utilidades\obj\Debug\Utilidades.dll
+D:\Users\Usuario\Downloads\PROGRAMACIÓN II\CursosFormación\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Alejandra\Downloads\CursosFormación (1)\CursosFormación\Utilidades\obj\Debug\Utilidades.pdb
